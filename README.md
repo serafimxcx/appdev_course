@@ -1,6 +1,6 @@
 # appdev_course
 
-This repository contains a collection of coding activities for an application development course, focusing on web application exercises. Each folder within this repository represents a specific project designed to reinforce fundamental web development and application management skills.
+This repository serves as a practical toolkit for foundational application development concepts and hands-on coding activities using PHP, Java, jQuery, HTML, and CSS. Each project emphasizes different aspects of web development, helping students build a versatile skill set.
 
 ## Project Overview
 
@@ -29,6 +29,3 @@ This repository contains a collection of coding activities for an application de
    - A student management system where users can manage student records and their associated courses. The app includes functionality to generate PDF reports of student records, providing insight into reporting and document generation.
 
 
----
-
-This repository serves as a practical toolkit for foundational application development concepts and hands-on coding activities. Each project emphasizes different aspects of web development, helping students build a versatile skill set.
